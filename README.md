@@ -1,3 +1,3 @@
 # Codeforces
 
-Repository containing solved Codeforces problems
+Repository containing solutions for Codeforces problems written in Python.
